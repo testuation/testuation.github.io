@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Actuate</title>
+    <link>https://testuation.github.io/</link>
+    <description>Recent content on Actuate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [Actuate](https://actuateinnovation.org) All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://testuation.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DataSafes</title>
+      <link>https://testuation.github.io/blog/blog-post-1/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      
+      <guid>https://testuation.github.io/blog/blog-post-1/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+    </item>
+    
+    <item>
+      <title>DataSafes</title>
+      <link>https://testuation.github.io/projects/datasafes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://testuation.github.io/projects/datasafes/</guid>
+      <description>DataSafes Actuate’s Data and Privacy program aims to integrate and demonstrate advanced research from math, cryptography, statistics, and computer science to start a new chapter in practical data privacy in which data is analyzable and private at the same time.</description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://testuation.github.io/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://testuation.github.io/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
+    </item>
+    
+    <item>
+      <title>MACA</title>
+      <link>https://testuation.github.io/projects/climate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://testuation.github.io/projects/climate/</guid>
+      <description>Make climate great again Promising new approaches to mitigate and adapt to climate change are emerging today from laboratories and startups. But on their current course, most will take too many decades to achieve the scale of adoption necessary to make a meaningful contribution to our urgent climate challenges.</description>
+    </item>
+    
+    <item>
+      <title>Mark Dinn</title>
+      <link>https://testuation.github.io/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://testuation.github.io/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui.</description>
+    </item>
+    
+    <item>
+      <title>Scalable prevention</title>
+      <link>https://testuation.github.io/projects/scalable-prevention/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://testuation.github.io/projects/scalable-prevention/</guid>
+      <description>Scalable Prevention of Chronic Disease The Scalable Prevention of Chronic Disease program takes aim at one of the most expensive and rapidly growing areas of U.S. healthcare: chronic disease. Today, 84 million American adults are at risk of diabetes.</description>
+    </item>
+    
+  </channel>
+</rss>
