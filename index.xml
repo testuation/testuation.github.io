@@ -6,7 +6,7 @@
     <description>Recent content on Actuate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 [Actuate](https://actuateinnovation.org) All Rights Reserved</copyright>
+    <copyright>Copyright &amp;copy; 2020 [Actuate&lt;sup&gt; SM &lt;/sup&gt;](https://actuateinnovation.org) All Rights Reserved</copyright>
     <lastBuildDate>Mon, 24 Sep 2018 11:07:10 +0600</lastBuildDate>
     
 	<atom:link href="https://testuation.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -23,10 +23,10 @@
     
     <item>
       <title>DataSafes</title>
-      <link>https://testuation.github.io/projects/datasafes/</link>
+      <link>https://testuation.github.io/programs/datasafes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://testuation.github.io/projects/datasafes/</guid>
+      <guid>https://testuation.github.io/programs/datasafes/</guid>
       <description>DataSafes Program objective: research and demonstrate statistical modeling and machine learning across multiple datasets with rigorous privacy protection.
 Actuate’s Data and Privacy program aims to integrate and demonstrate advanced research from math, cryptography, statistics, and computer science to start a new chapter in practical data privacy in which data is analyzable and private at the same time.</description>
     </item>
@@ -42,10 +42,10 @@ Actuate’s Data and Privacy program aims to integrate and demonstrate advanced 
     
     <item>
       <title>MACA</title>
-      <link>https://testuation.github.io/projects/climate/</link>
+      <link>https://testuation.github.io/programs/climate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://testuation.github.io/projects/climate/</guid>
+      <guid>https://testuation.github.io/programs/climate/</guid>
       <description>Make climate great again Program objective: explore acceleration opportunities and develop programs that are systems experiments in accelerating scale up of promising climate solutions.
 Promising new approaches to mitigate and adapt to climate change are emerging today from laboratories and startups.</description>
     </item>
@@ -61,10 +61,10 @@ Promising new approaches to mitigate and adapt to climate change are emerging to
     
     <item>
       <title>Scalable prevention</title>
-      <link>https://testuation.github.io/projects/scalable-prevention/</link>
+      <link>https://testuation.github.io/programs/scalable-prevention/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://testuation.github.io/projects/scalable-prevention/</guid>
+      <guid>https://testuation.github.io/programs/scalable-prevention/</guid>
       <description>Scalable Prevention of Chronic Disease Program objective: research and develop automated tools for healthy habits and demonstrate their effectiveness in disease prevention.
 The Scalable Prevention of Chronic Disease program takes aim at one of the most expensive and rapidly growing areas of U.</description>
     </item>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Actuate</title>
+    <title>Actuate&lt;sup&gt; SM &lt;/sup&gt; on Actuate</title>
     <link>https://testuation.github.io/about/</link>
-    <description>Recent content on Actuate</description>
+    <description>Recent content in Actuate&lt;sup&gt; SM &lt;/sup&gt; on Actuate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 [Actuate](https://actuateinnovation.org) All Rights Reserved</copyright>
+    <copyright>Copyright &amp;copy; 2020 [Actuate&lt;sup&gt; SM &lt;/sup&gt;](https://actuateinnovation.org) All Rights Reserved</copyright>
     
 	<atom:link href="https://testuation.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
