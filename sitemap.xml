@@ -38,10 +38,6 @@
   </url>
   
   <url>
-    <loc>https://testuation.github.io/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://testuation.github.io/author/</loc>
   </url>
   
@@ -71,6 +67,10 @@
   
   <url>
     <loc>https://testuation.github.io/programs/scalable-prevention/</loc>
+  </url>
+  
+  <url>
+    <loc>https://testuation.github.io/about/</loc>
   </url>
   
 </urlset>
