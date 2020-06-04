@@ -1,15 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Who we are on Actuate</title>
+    <title>Who Are We on Actuate</title>
     <link>https://testuation.github.io/team/</link>
-    <description>Recent content in Who we are on Actuate</description>
+    <description>Recent content in Who Are We on Actuate</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 [Actuate&lt;sup&gt; SM &lt;/sup&gt;](https://actuateinnovation.org) All Rights Reserved.</copyright>
     
 	<atom:link href="https://testuation.github.io/team/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arati Prabhakar</title>
+      <link>https://testuation.github.io/team/arati/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://testuation.github.io/team/arati/</guid>
+      <description>Arati’s career has spanned multiple leadership roles as a public servant and in Silicon Valley, with the common thread of advancing research and technology to achieve societal and business impact. She was director of DARPA 2012-17 and director of NIST 1993-97.</description>
+    </item>
+    
+    <item>
+      <title>Carolyn Shaw</title>
+      <link>https://testuation.github.io/team/carolyn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://testuation.github.io/team/carolyn/</guid>
+      <description>Carolyn worked with program managers and the leaders at DARPA 2013-18 to make things happen. While getting her MBA she reunited with Arati and Wade to start Actuate.</description>
+    </item>
+    
+    <item>
+      <title>Wade Shen</title>
+      <link>https://testuation.github.io/team/wade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://testuation.github.io/team/wade/</guid>
+      <description>Wade is a data science and artificial intelligence expert who has funded and worked with researchers in universities and companies, users in governments and in companies, and policy makers to create and demonstrate solutions to thorny problems.</description>
+    </item>
     
   </channel>
 </rss>
